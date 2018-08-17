@@ -1,4 +1,4 @@
-var animal = 'dog', theFunk = "FUNKY!"
+var animal = 'dog', funkyFunction = "FUNKY!"
 
 function myAnimal() {
   return animal
